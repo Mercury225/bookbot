@@ -4,7 +4,9 @@ alphabet_dictionary = {"a":0,"b":0,"c":0,"d":0,"e":0,"f":0,"g":0,"h":0,"i":0,
 
 
 def main ():
+    # ADD YOUR BOOK NAME HERE, REPLACE frankenstein.txt
     with open("./books/frankenstein.txt") as whole_text:
+    # -----------------------------
         read_text = whole_text.read()
         text_as_lower_case = read_text.lower()
         split_text = text_as_lower_case.split()
