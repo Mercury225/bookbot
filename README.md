@@ -4,5 +4,7 @@
 2. Counts the number of words in a book
 
 ## how to use:
-1. add a directory called books and inside add a file named [your book].txt
-2. change variable in main.py to your book title
+1. clone repository
+2. add a directory called books and inside add a file named [your book].txt
+3. change variable in main.py to your book title
+
